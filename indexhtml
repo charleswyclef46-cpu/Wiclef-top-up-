@@ -1,0 +1,59 @@
+<!DOCTYPE html>
+<html lang="ht">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Wiclef top up</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            margin: 0;
+            padding: 0;
+            background-color: #f4f4f9;
+            color: #333;
+        }
+        header {
+            background-color: #d32f2f;
+            color: #fff;
+            padding: 1.5rem;
+            text-align: center;
+        }
+        .container {
+            max-width: 800px;
+            margin: 2rem auto;
+            padding: 1.5rem;
+            background: #fff;
+            border-radius: 8px;
+            box-shadow: 0 4px 6px rgba(0,0,0,0.1);
+            text-align: center;
+        }
+        .btn {
+            display: inline-block;
+            background-color: #d32f2f;
+            color: #fff;
+            padding: 0.75rem 1.5rem;
+            text-decoration: none;
+            border-radius: 5px;
+            border: none;
+            cursor: pointer;
+            font-weight: bold;
+        }
+        .btn:hover {
+            background-color: #b71c1c;
+        }
+    </style>
+</head>
+<body>
+
+    <header>
+        <h1>Wiclef top up</h1>
+    </header>
+
+    <div class="container">
+        <h2>Sèvis Rechaj Jwèt ak Monnen Virtuel</h2>
+        <p>Achte diamant ak credit pou jwèt ou yo san tèt chaje sou Wiclef top up.</p>
+        <button class="btn">Rechaje Kounye a</button>
+    </div>
+
+</body>
+</html>
